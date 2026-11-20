@@ -1,0 +1,18 @@
+0:00:00 01 Chapter Introduction
+0:02:11 02 Animation Refresher
+0:15:47 03 Camera Animation
+0:27:25 04 Vegetation Animation
+0:35:19 05 Cable Animation
+0:44:15 06 Simple Character Animation
+0:49:10 07 Fire Particles
+1:02:35 08 Sparks Particles
+1:06:25 09 Smoke Particles
+1:12:09 10 Dust Particles
+1:19:28 11 Pop Up Animation Preparation
+1:28:37 12 Pop Up Animation Commotion Addon
+1:38:52 13 Scattered Objects Dissolve Workflow
+1:47:44 14 Scattered Objects Dissolve Animation
+1:57:46 15 Ground Dissolve Animation
+2:04:49 16 Ground Dissolve Particles
+2:15:43 17 Finalizing Particles
+2:20:52 18 Finalizing Animation

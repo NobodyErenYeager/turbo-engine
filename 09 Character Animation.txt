@@ -1,0 +1,17 @@
+0:00:00 01 Chapter Introduction
+0:01:48 02 Character Animation Is Hard
+0:05:48 03 Fixing Asset Browser Issues
+0:10:35 04 Animating Character Basics Part 1
+0:16:39 05 Animating Character Basics Part 2
+0:27:39 06 Video Reference
+0:34:12 07 Walk Cycle
+0:45:45 08 Repeating Loop
+0:52:39 09 Walk On Path
+0:57:51 10 Non-Looping Animation Part 1
+1:04:02 11 Non-Looping Animation Part 2
+1:16:47 12 Non-Looping Animation Part 3
+1:31:11 13 Non-Looping Animation Part 4
+1:43:34 14 Modular Animation
+1:59:23 15 Baking Animations
+2:07:50 16 Stop Motion Effect
+2:11:48 17 Animating Characters In Big Scenes

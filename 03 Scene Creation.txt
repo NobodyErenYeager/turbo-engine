@@ -1,0 +1,30 @@
+0:00:00 01 Chapter Introduction
+0:01:42 02 Idea And Preparation
+0:06:26 03 Basic Scene Setup
+0:12:44 04 Basic Camera Setup
+0:18:31 05 Basic Light Setup
+0:23:55 06 Campfire Asset Creation
+0:33:38 07 Campfire Assembling
+0:45:00 08 Tent Modeling
+0:54:37 09 Tent Detailing
+1:00:51 10 Robot Blocking And Posing
+1:13:24 11 Robot Head Modeling
+1:27:47 12 Robot Body Modeling
+1:31:09 13 Robot Upper Arm Modeling
+1:38:36 14 Robot Lower Arm Modeling
+1:42:41 15 Robot Hands Modeling
+1:48:33 16 Robot Sword Modeling
+1:51:12 17 Robot Pose Adjustments
+1:55:40 18 Robot Convert Instances
+2:04:25 19 Convert Instances Troubleshooting
+2:10:08 20 Robot Detailing
+2:20:01 21 Dune Modeling
+2:31:32 22 Composition Adjustments
+2:36:23 23 Mood And Lighting
+2:45:36 24 Adding Pre-Made Assets
+2:56:29 25 Cable Modeling
+3:01:45 26 Object Instancing
+3:07:29 27 Scatter Objects Addon
+3:12:51 28 Scattering Grass And Stones
+3:24:57 29 Scattering Dirt Trash And Vines
+3:35:31 30 Using Pre-Made Characters

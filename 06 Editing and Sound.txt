@@ -1,0 +1,13 @@
+0:00:00 01 Chapter Introduction
+0:01:16 02 Intro Animation Breakdown
+0:09:57 03 Title Animation Breakdown
+0:13:24 04 Video Sequencer Fast Playback
+0:21:04 05 Video Editing
+0:35:16 06 Sound Design Preparation
+0:38:55 07 Sound Design Creative Concept
+0:42:03 08 Sound Design Music
+0:48:52 09 Sound Design Atmosphere
+0:55:43 10 Sound Design Sound Effects
+1:04:27 11 Sound Design Final Mix
+1:09:31 12 Sound Design Sound Resources
+1:16:45 13 Export Video With Sound

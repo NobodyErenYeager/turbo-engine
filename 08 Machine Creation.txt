@@ -1,0 +1,26 @@
+0:00:00 01 Chapter Introduction
+0:02:06 02 Grease Pencil Basics
+0:07:44 03 Robot Sketching
+0:20:49 04 Robot Modeling Cockpit
+0:32:28 05 Robot Modeling Limbs
+0:44:21 06 Robot Color And Adjustments
+0:49:58 07 Robot Testing Functionality And Finalization
+1:01:22 08 Robot Rig Adding Bones
+1:15:34 09 Robot Rig Organization
+1:24:23 10 Robot Rig Constraints
+1:37:13 11 Robot Rig Skinning
+1:50:59 12 Car Preparation Import 3D Scan
+1:56:59 13 Car Sketching
+2:03:26 14 Car Modeling Bottom
+2:09:07 15 Car Modeling Front
+2:15:42 16 Car Modeling Back
+2:23:38 17 Car Modeling Cockpit And Wheels
+2:31:36 18 Car Modeling Adjustments And Colors
+2:38:38 19 Car Modeling Details And Finalization
+2:48:47 20 Car Rig Adding Bones
+2:58:40 21 Car Rig Skinning
+3:02:40 22 Car Rig Doors And Hatch
+3:09:00 23 Car Rig Spinning Wheels
+3:17:11 24 Car Rig Steering
+3:26:00 25 Car Rig Ground Detection
+3:38:33 26 Car Rig Suspension
